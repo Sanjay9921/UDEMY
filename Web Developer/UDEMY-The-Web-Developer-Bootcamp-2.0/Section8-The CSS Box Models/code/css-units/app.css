@@ -1,0 +1,47 @@
+/* Absolute px */
+section{
+    background-color: #6d6875;
+    width: 800px;
+    height: 800px;
+}
+
+/*Relative percentage*/
+div{
+    background-color: #e5989b;
+    width: 50%;
+    height: 50%;
+    /*border-radius: 50%;*/
+}
+
+/*Relative */
+h1{
+    font-size: 40px;
+    border: 1px solid black;
+    line-height: 200%;
+}
+
+article{
+    font-size: 15px;
+}
+
+
+/* Relative em */
+h2{
+    font-size: 2em;
+}
+
+button{
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: #2a9d82;
+    color: white;
+}
+
+ul{
+    font-size: 1.5em;
+}
+
+#rems{
+    font-size: 1.5rem;
+}

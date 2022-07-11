@@ -1,0 +1,32 @@
+/*Rotate*/
+section:first-of-type h1:nth-of-type(1){
+    transform-origin: bottom right;
+    transform: rotate(45deg);
+}
+
+/*Scale*/
+section:first-of-type h1:nth-of-type(2){
+    transform: scale(0.5);
+}
+
+/*Move*/
+/* Can use translateX and translateY too*/
+section:first-of-type h1:nth-of-type(3){
+    transform: translate(100px,50px);
+}
+
+/*Skew*/
+/* Can use skewX and skewY too*/
+section:nth-of-type(2) h1:nth-of-type(1){
+    transform: skew(30deg, 5deg);
+}
+
+/*Combo*/
+section:nth-of-type(2) h1:nth-of-type(3){
+    transform: rotate(-30deg) scale(1.3) skew(30deg);
+}
+
+/*Combo*/
+section:nth-of-type(2) h1:nth-of-type(4){
+    transform: translateX(-500px) rotate(0.5turn) scaleY(1.5);
+}

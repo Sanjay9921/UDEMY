@@ -1,0 +1,9 @@
+/* WRITE YOUR CODE IN HERE!!!!  */
+
+div.square:nth-of-type(n){
+    background-color: red;
+}
+
+div.square:nth-of-type(2n){
+    background-color: black;
+}

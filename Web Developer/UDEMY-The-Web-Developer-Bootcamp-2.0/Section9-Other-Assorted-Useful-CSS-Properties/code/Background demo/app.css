@@ -1,0 +1,17 @@
+section{
+    width: 90%;
+    height: 800px;
+    /*background-image:  url("D:/GitHub/Web-Developer/UDEMY-The-Web-Developer-Bootcamp-2.0/Section9-Other-Assorted-Useful-CSS-Properties/resources/leo-wieling-A41RDv4xoMI-unsplash.jpg");
+    background-size: cover;
+    background-position: bottom;*/
+
+    /* bg-position/bg-size is the syntax*/
+    background: url("D:/GitHub/Web-Developer/UDEMY-The-Web-Developer-Bootcamp-2.0/Section9-Other-Assorted-Useful-CSS-Properties/resources/leo-wieling-A41RDv4xoMI-unsplash.jpg") center/cover;
+
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 100px;
+    color: white;
+}
