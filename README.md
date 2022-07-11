@@ -2,19 +2,19 @@
 
 ## Cloud
 
-AWS
+1. AWS
 
 ## Data Science
 
-Machine Learning
-Python
-Tableau
+1. Machine Learning
+2. Python
+3. Tableau
 
 ## Web Dev
 
-Web Developer Bootcamp - HTML5, CSS, JavaScript
-Typescript
+1. Web Developer Bootcamp - HTML5, CSS, JavaScript
+2. Typescript
 
 ## Software Developer
 
-Java
+1. Java
